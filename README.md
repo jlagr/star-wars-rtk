@@ -1,4 +1,4 @@
-# Small project to practice the use of React, Axios, React Toolkit and Tailwind
+# Small project to practice the use of React, Axios, Redux-Toolkit and Tailwind
 
 This application use the free API https://swapi.dev who provides some date of Star Wars movies.
 The first screen shows the list of mine movies in cards, each of them has a "More details" link to display the characters of the selected movie.
